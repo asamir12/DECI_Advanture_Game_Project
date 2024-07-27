@@ -595,7 +595,7 @@ def main():
         break
 
 
-# This function is where I gathered the (main, Game_should_continue) functions.
+# This function is where I gathered the (main, game_end) functions.
 def lost_in_the_woods_game():
     main()
     game_end()
